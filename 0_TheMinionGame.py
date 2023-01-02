@@ -5,3 +5,5 @@ Stuart has to make words starting with consonants.
 Kevin has to make words starting with vowels.
 The game ends when both players have made all possible substrings.
 """
+
+print("hellooo")
